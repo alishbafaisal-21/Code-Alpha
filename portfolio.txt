@@ -1,0 +1,4 @@
+Stock Portfolio:
+orange: 3
+apple: 2
+Total Value: 540
